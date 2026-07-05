@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Saved models/scalers (optional to ignore, but we can keep them in this repo)
+# If you don't want to upload pkl files, uncomment the lines below:
+# *.pkl
